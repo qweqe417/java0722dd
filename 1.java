@@ -2,6 +2,9 @@ public class Mycccc {
     public static void main(String[] args) {
       
         1111111
+
+
+			22222222
         int  size  =1024*1224;
         byte[]  sy = new byte[3*size];
         System.out.println(11111);
